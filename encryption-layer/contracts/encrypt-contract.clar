@@ -1,5 +1,4 @@
-;; PRIVATE-MESSAGING-SYSTEM - REFACTORED IMPLEMENTATION
-;; Enhanced communication platform with participant management and secure messaging
+;; OKWU MESSAGINGSYSTEM 
 
 ;; Response codes
 (define-constant UNAUTHORIZED-ACCESS u100)
